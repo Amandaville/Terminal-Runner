@@ -10,7 +10,7 @@
       "type": "keyword",
       "name": "Run in Terminal",
       "description": "Run command in terminal",
-      "default_value": "$"
+      "default_value": ">"
     },
     {
       "id": "showStdout",
